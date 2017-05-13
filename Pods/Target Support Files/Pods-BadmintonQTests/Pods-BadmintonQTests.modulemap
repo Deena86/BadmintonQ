@@ -1,0 +1,6 @@
+framework module Pods_BadmintonQTests {
+  umbrella header "Pods-BadmintonQTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
